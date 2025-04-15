@@ -10,3 +10,6 @@ mkdir controllers models routes config && touch controllers/userController.js mo
 
 ## 📦 Folder & File Structure Setup
 ### 🔹 Step 1: Create Project Directory
+```diff
+"Professional Full Stack Web Developer"
+```
